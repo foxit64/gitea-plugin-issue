@@ -1,6 +1,6 @@
 # Gitea Plugin Issue for Woodpecker
 
-## settings example:
+## Settings example:
 
 ```
 pipeline:
